@@ -7,7 +7,7 @@ description: >-
   that will empower content editors to construct their own webpages.
 baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
 url: "" # your site's origin, e.g. https://forestry.io
-
+destination: build
 # Build settings
 defaults:
   - scope:
