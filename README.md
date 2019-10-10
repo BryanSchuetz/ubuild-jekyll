@@ -20,3 +20,5 @@
 
 To use the page builder, select the **Page Builder** template when creating a new page.
 
+changing destination to build
+
